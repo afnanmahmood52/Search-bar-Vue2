@@ -6,6 +6,11 @@ This project is a Vue.js application designed to showcase a user-friendly interf
 
 ![project screenshot](https://github.com/user-attachments/assets/bb09145b-5e69-43cb-aecf-24f527eb94fc)
 
+## Deployed Link
+The project is deployed on vercel for demo purposes.
+
+https://search-bar-vue2.vercel.app/
+
 ## Prerequisites
 
 - **Node.js**: Ensure you are using Node.js version 16.
