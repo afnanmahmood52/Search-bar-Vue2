@@ -4,7 +4,7 @@
 
 This project is a Vue.js application designed to showcase a user-friendly interface with a search feature, tag filtering, and display of items. It uses reusable components and optimized techniques for better performance.
 
-![Uploading image.png…]()
+![project screenshot](https://github.com/user-attachments/assets/bb09145b-5e69-43cb-aecf-24f527eb94fc)
 
 ## Prerequisites
 
