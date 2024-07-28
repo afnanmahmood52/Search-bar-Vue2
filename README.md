@@ -13,7 +13,6 @@ This project is a Vue.js application designed to showcase a user-friendly interf
 1. **Install Dependencies**
 
    Navigate to the project directory and install the necessary dependencies using npm:
-
    ```bash
    npm install
 
