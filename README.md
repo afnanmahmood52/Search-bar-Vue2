@@ -4,6 +4,8 @@
 
 This project is a Vue.js application designed to showcase a user-friendly interface with a search feature, tag filtering, and display of items. It uses reusable components and optimized techniques for better performance.
 
+![Uploading image.png…]()
+
 ## Prerequisites
 
 - **Node.js**: Ensure you are using Node.js version 16.
